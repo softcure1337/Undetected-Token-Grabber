@@ -1,5 +1,5 @@
 <h1 align="center">
-  Undetected Token Grabber
+  Undetected Luna Token Grabber
 </h1>
 
 <div align="center">
